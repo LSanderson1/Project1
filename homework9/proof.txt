@@ -1,0 +1,12 @@
+Script started on Thu 28 Apr 2022 10:55:25 PM HST
+]0;lloyd9@uhx02:~/homework9[?1034huhx02:/home/l/lloyd9/homework9% make -B
+g++ -ansi -pedantic -errors -Wall -c main.cpp
+g++ -ansi -pedantic -errors -Wall -c pokemon.cpp
+g++ -ansi -pedantic -errors -Wall -c charmeleon.cpp
+g++ -ansi -pedantic -errors -Wall -c caterpie.cpp
+g++ -ansi -pedantic -errors -Wall -c wartortle.cpp
+g++ -o homework9 main.o pokemon.o charmeleon.o caterpie.o wartortle.o
+]0;lloyd9@uhx02:~/homework9uhx02:/home/l/lloyd9/homework9% exit
+exit
+
+Script done on Thu 28 Apr 2022 10:55:37 PM HST

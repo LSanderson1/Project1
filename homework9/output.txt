@@ -1,0 +1,54 @@
+Script started on Thu 28 Apr 2022 10:56:45 PM HST
+]0;lloyd9@uhx02:~/homework9[?1034huhx02:/home/l/lloyd9/homework9% ./homework9
+inserting names 
+
+creating pokemon zappy the wartortle
+Pokemon Constructor
+Wartortle Constructor
+
+creating pokemon zack the charmeleon
+Pokemon Constructor
+Charmeleon Constructor
+
+creating pokemon jack the carterpie
+Pokemon Constructor
+Caterpie Constructor
+
+inserting pokemons 
+
+iterating over the names 
+using key: 'zappy'
+calling the 'checkPokedex()' function
+Wartortle:
+type : Water
+weight: 22.5
+
+deleting pokemon 'zappy'
+Wartortle Destructor
+Pokemon Destructor
+
+using key: 'zack'
+calling the 'checkPokedex()' function
+Charmeleon:
+type : Fire
+weight: 5
+
+deleting pokemon 'zack'
+Charmeleon Destructor
+Pokemon Destructor
+
+using key: 'jack'
+calling the 'checkPokedex()' function
+Caterpie:
+type : Bug
+weight: 2.9
+
+deleting pokemon 'jack'
+Caterpie Destructor
+Pokemon Destructor
+
+
+]0;lloyd9@uhx02:~/homework9uhx02:/home/l/lloyd9/homework9% exit
+exit
+
+Script done on Thu 28 Apr 2022 10:56:58 PM HST
